@@ -6,7 +6,15 @@
     font-family: Roboto;
 }
 .container{
-    width:80%;
+    width:100%;
+    margin: 0 auto;
+}
+.header{
+    width: 80%;
+    margin: 0 auto;
+}
+.main{
+    width: 80%;
     margin: 0 auto;
 }
 div.header img{
