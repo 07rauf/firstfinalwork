@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.footer{
+    background-color: black;
+}
+.about{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 50px;
+    width: 80%;
+}
+.foot-img1{
+    padding-left: 124px;
+}
+.call{
+    display: flex;
+    flex-direction: column;
+    width: 180px;
+}
+.social-account{
+    display: flex;
+    justify-content: space-between;
+    width: 10%;
+    margin-left: 124px;
+    margin-top: 30px;
+}
+a{
+    font-size: 25px;
+    color: white;
+    width: 33px;
+    height: 33px;
+}
+.sign{
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 20px;
+    margin-left: 124px;
+}
+.call{
+    width: 20%;
+}
+.telephone{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 28px;
+    padding-right: 32px;
+    padding-bottom: 6px;
+    font-family: roboto;
+    font-size: 15px;
+    align-items: center;
+}
+.telephone i{
+    font-size: 20px;
+}
+.email{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 29px;
+    padding-right: 27px;
+    font-size: 15px;
+    align-items: center;
+}
+.foot-paragraph{
+    font-size: 18px;
+    color: white;
+}
